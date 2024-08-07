@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "userName": "amal",
+      "pokemons": [
+        {
+          "pokemonName": "venu",
+          "pokemonAbility": "grow",
+          "initialPositionX": "23",
+          "initialPositionY": "313",
+          "speed": "100",
+          "direction": "right"
+        }
+      ],
+      "id": "4b6bc53d-4ca8-4e06-943c-fa09f770077a"
+    },
+    {
+      "userName": "Ash",
+      "pokemons": [
+        {
+          "pokemonName": "squirtle",
+          "pokemonAbility": "rain-dish",
+          "initialPositionX": "58",
+          "initialPositionY": "23",
+          "speed": "23",
+          "direction": "23"
+        }
+      ],
+      "id": "c4b82f2e-b667-433a-9f2f-0cef6c0ca45d"
+    },
+    {
+      "userName": "kamal",
+      "pokemons": [
+        {
+          "pokemonName": "blastoise",
+          "pokemonAbility": "torrent",
+          "initialPositionX": "10",
+          "initialPositionY": "12",
+          "speed": "100",
+          "direction": "right"
+        },
+        {
+          "pokemonName": "phuww",
+          "pokemonAbility": "lwe",
+          "initialPositionX": "10wew",
+          "initialPositionY": "2wew0",
+          "speed": "5",
+          "direction": "rt"
+        }
+      ],
+      "id": "337e5183-0235-4dd0-ab85-81aebff9c67d"
+    },
+    {
+      "userName": "Raj",
+      "pokemons": [
+        {
+          "pokemonName": "blastoise",
+          "pokemonAbility": "rain-dish",
+          "initialPositionX": "45",
+          "initialPositionY": "45",
+          "speed": "100",
+          "direction": "right"
+        },
+        {
+          "pokemonName": "squirtle",
+          "pokemonAbility": "rain-dish",
+          "initialPositionX": "56",
+          "initialPositionY": "56",
+          "speed": "200",
+          "direction": "right"
+        }
+      ],
+      "id": "2315b107-12b5-4f06-ac77-621d7135649d"
+    }
+  ]
+}
